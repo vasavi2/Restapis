@@ -1,0 +1,7 @@
+﻿plant_id,plant_name,region,country,latitude,longitude,update_time_stamp
+1,A,Delhi,INDIA,28.679079,77.069710,2023-06-30 11:23:47
+2,B,Hyderabad,INDIA,17.3840,78.4563,2023-06-30 11:23:47
+3,C,Mumbai,INDIA,18.9667,72.8333,2023-06-30 11:23:47
+4,D,Kolkata,INDIA,22.5411,88.3378,2023-06-30 11:23:47
+5,E,Bangalore,INDIA,12.9770,77.5871,2023-06-30 11:23:47
+6,F,Mysore,INDIA,12.2926,76.6385,2023-06-30 11:23:47

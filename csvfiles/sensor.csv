@@ -1,0 +1,26 @@
+﻿sensorgroup_id,asset_id,name,component,endpoint,update_time_stamp
+2123,1,Compressor Dry Gas Seal,compressor,_2K1701_DGS,15-03-2023 08:12
+2276,1,Compressor Journal Bearing,compressor,_2K1701_CJB,15-03-2023 08:12
+33,1,Compressor Lube Oil System,lube oil system,_2K1701_LOS,15-03-2023 08:12
+44,1,Compressor Stage 1 Performance,compressor,_2K1701_CPS1,15-03-2023 08:12
+55,1,Compressor Stage 2 Performance,compressor,_2K1701_CPS2,15-03-2023 08:12
+66,1,Compressor Stage 3 Performance,compressor,_2K1701_CPS3,15-03-2023 08:12
+77,1,Compressor Thrust Bearing,compressor,_2K1701_CTB,15-03-2023 08:12
+88,1,Turbine Journal Bearing,turbine,_2K1701_STJB,15-03-2023 08:12
+99,1,Turbine Performance,turbine,_2K1701_STP,15-03-2023 08:12
+100,1,Turbine Thrust Bearing,turbine,_2K1701_STTB,15-03-2023 08:12
+111,2,Compressor STAGE 1 INTERCOOLER SEPERATOR,compressor,_A4101J_CICS1,15-03-2023 08:12
+122,2,Compressor Stage 1 Performance,compressor,_A4101J_CPS1,15-03-2023 08:12
+133,2,LP CASE JOURNAL BEARING,compressor,_A4101J_CJLC,15-03-2023 08:12
+144,2,Compressor STAGE 3 INTERCOOLER SEPERATOR,compressor,_A4101J_CICS3,15-03-2023 08:12
+155,2,Compressor Stage 4 Performance,compressor,_A4101J_CPS4,15-03-2023 08:12
+166,2,Compressor Stage 3 Performance,compressor,_A4101J_CPS3,15-03-2023 08:12
+177,2,HP CASE JOURNAL BEARING,compressor,_A4101J_CJHC,15-03-2023 08:12
+188,2,LP CASE THRUST BEARING,compressor,_A4101J_CTLC,15-03-2023 08:12
+199,2,Compressor Stage 2 Performance,compressor,_A4101J_CPS2,15-03-2023 08:12
+200,2,LUBE OIL SYSTEM,lube oil system,_A4101J_LOS,15-03-2023 08:12
+211,2,HP CASE THRUST BEARING,compressor,_A4101J_CTHC,15-03-2023 08:12
+222,2,Compressor STAGE 2 INTERCOOLER SEPERATOR,compressor,_A4101J_CICS2,15-03-2023 08:12
+233,2,Turbine Bearing ,turbine,_A4101J_THB,15-03-2023 08:12
+244,2,Turbine Radial Bearing,turbine,_A4101J_TRB,15-03-2023 08:12
+255,2,Turbine Performance,turbine,_A4101J_TP,15-03-2023 08:12

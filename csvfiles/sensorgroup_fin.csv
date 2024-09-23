@@ -1,0 +1,27 @@
+﻿sensorgroup_id,asset_id,name,component,endpoint,update_time_stamp
+1,1,Compressor Dry Gas Seal,compressor,_2K1701_DGS,2023-03-15 08:12:10
+2,1,Compressor Journal Bearing,compressor,_2K1701_CJB,2023-03-15 08:12:10
+3,1,Compressor Lube Oil System,lube oil system,_2K1701_LOS,2023-03-15 08:12:10
+4,1,Compressor Stage 1 Performance,compressor,_2K1701_CPS1,2023-03-15 08:12:10
+5,1,Compressor Stage 2 Performance,compressor,_2K1701_CPS2,2023-03-15 08:12:10
+6,1,Compressor Stage 3 Performance,compressor,_2K1701_CPS3,2023-03-15 08:12:10
+7,1,Compressor Thrust Bearing,compressor,_2K1701_CTB,2023-03-15 08:12:10
+8,1,Turbine Journal Bearing,turbine,_2K1701_STJB,2023-03-15 08:12:10
+9,1,Turbine Performance,turbine,_2K1701_STP,2023-03-15 08:12:10
+10,1,Turbine Thrust Bearing,turbine,_2K1701_STTB,2023-03-15 08:12:10
+11,2,Compressor STAGE 1 INTERCOOLER SEPERATOR,compressor,_A4101J_CICS1,2023-03-15 08:12:11
+12,2,Compressor Stage 1 Performance,compressor,_A4101J_CPS1,2023-03-15 08:12:11
+13,2,LP CASE JOURNAL BEARING,compressor,_A4101J_CJLC,2023-03-15 08:12:11
+14,2,Compressor STAGE 3 INTERCOOLER SEPERATOR,compressor,_A4101J_CICS3,2023-03-15 08:12:11
+15,2,Compressor Stage 4 Performance,compressor,_A4101J_CPS4,2023-03-15 08:12:11
+16,2,Compressor Stage 3 Performance,compressor,_A4101J_CPS3,2023-03-15 08:12:11
+17,2,HP CASE JOURNAL BEARING,compressor,_A4101J_CJHC,2023-03-15 08:12:11
+18,2,LP CASE THRUST BEARING,compressor,_A4101J_CTLC,2023-03-15 08:12:11
+19,2,Compressor Stage 2 Performance,compressor,_A4101J_CPS2,2023-03-15 08:12:11
+20,2,LUBE OIL SYSTEM,lube oil system,_A4101J_LOS,2023-03-15 08:12:11
+21,2,HP CASE THRUST BEARING,compressor,_A4101J_CTHC,2023-03-15 08:12:11
+22,2,Compressor STAGE 2 INTERCOOLER SEPERATOR,compressor,_A4101J_CICS2,2023-03-15 08:12:11
+23,2,Turbine Bearing ,turbine,_A4101J_THB,2023-03-15 08:12:11
+24,2,Turbine Radial Bearing,turbine,_A4101J_TRB,2023-03-15 08:12:11
+25,2,Turbine Performance,turbine,_A4101J_TP,2023-03-15 08:12:11
+26,3,Device Instrument,sciex,_DZ21241809_device_Instrument,2023-03-15 08:12:12
